@@ -14,7 +14,9 @@ Course Hub is a modern, responsive, and full-featured e-learning web application
 
 ## 📸 Screenshots & Application Showcase
 
-*(You can add screenshots of your platform here to make the README look stunning!)*
+<p align="center">
+  <img src="screenshots/home-page.png" alt="Course Hub Home Page" width="100%">
+</p>
 
 ---
 
@@ -71,6 +73,10 @@ Course Hub is a modern, responsive, and full-featured e-learning web application
 * **Review Moderation**:
   * Monitor student feedback and remove inappropriate ratings or comments.
 
+<p align="center">
+  <img src="screenshots/admin-dashboard-overview.png" alt="Course Hub Admin Dashboard" width="100%">
+</p>
+
 ---
 
 ## 🎨 Design, UI & UX Highlights
@@ -83,6 +89,10 @@ Course Hub is a modern, responsive, and full-featured e-learning web application
   * Top categories showcase.
   * Student testimonials and newsletter subscription banner.
 * **Modern Typography & Icons**: Integrated with FontAwesome 6, Bootstrap Icons, and clean CSS variables.
+
+<p align="center">
+  <img src="screenshots/course-details-reviews.png" alt="Course Hub Course Details" width="100%">
+</p>
 
 ---
 
