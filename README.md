@@ -116,5 +116,5 @@ Make sure you have the following installed on your machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/Mariam-Mohamed5/courses-platform.git](https://github.com/Mariam-Mohamed5/courses-platform.git)
+git clone https://github.com/Mariam-Mohamed5/courses-platform.git
 cd courses-platform
