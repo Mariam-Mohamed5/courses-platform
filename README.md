@@ -113,6 +113,7 @@ Make sure you have the following installed on your machine:
 * **Node.js & NPM**
 * **MySQL** (e.g., via XAMPP)
 
+
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/Mariam-Mohamed5/courses-platform.git](https://github.com/Mariam-Mohamed5/courses-platform.git)
